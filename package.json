@@ -1,0 +1,13 @@
+{
+  "name":"mongoose-file",
+  "version":"0.0.1",
+  "author":"Hunter Loftis",
+  "contributors": [
+    {"name": "Jim Snodgrass", "email":"jim@skookum.com" }
+  ],
+  "main":"index",
+  "dependencies":{
+    "mongoose":"latest",
+    "async":"latest"
+  }
+}
